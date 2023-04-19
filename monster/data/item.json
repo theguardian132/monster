@@ -1,0 +1,98 @@
+[
+   {
+      "type": "weapon",
+      "id": 0,
+      "name": "Dragon Bone Cleaver",
+      "HP": 500,
+      "ATK": 800,
+      "DEF": 1100,
+      "SPD": 1000,
+      "durability": 200,
+      "price": 1000,
+      "image": "https://i.imgur.com/2WX3dkG.png"
+    },
+    {
+      "type": "weapon",
+      "id": 1,
+      "name": "Black Fatalis Blade",
+      "HP": 63000,
+      "ATK": 51800,
+      "DEF": 6000,
+      "SPD": 2000,
+      "durability": 5000,
+      "price": 1559000,
+      "image": "https://i.imgur.com/3Zptzr4.png"
+    },
+    {
+      "type": "weapon",
+      "id": 2,
+      "name": "Iron Lance",
+      "HP": 2000,
+      "ATK": 50,
+      "DEF": 1800,
+      "SPD": 500,
+      "durability": 200,
+      "price": 1000,
+      "image": "https://i.imgur.com/BG5YXGW.png"
+    },
+    {
+      "type": "weapon",
+      "id": 3,
+      "name": "True Fatalis Lance",
+      "HP": 80000,
+      "ATK": 1000,
+      "DEF": 60000,
+      "SPD": 1000,
+      "durability": 5000,
+      "price": 1559000,
+      "image": "https://i.imgur.com/euOEB94.png"
+    },
+    {
+      "type": "weapon",
+      "id": 4,
+      "name": "Heavy Bang",
+      "HP": 500,
+      "ATK": 210,
+      "DEF": 210,
+      "SPD": 2000,
+      "durability": 100,
+      "price": 1000,
+      "image": "https://i.imgur.com/JB2JAEm.png"
+    },
+    {
+      "type": "weapon",
+      "id": 5,
+      "name": "Safi's Dreamfang",
+      "HP": 41000,
+      "ATK": 15000,
+      "DEF": 10000,
+      "SPD": 4000,
+      "durability": 5000,
+      "price": 1559000,
+      "image": "https://i.imgur.com/JB2JAEm.png"
+    },
+    {
+      "type": "weapon",
+      "id": 6,
+      "name": "Blacksteel Twins",
+      "HP": 500,
+      "ATK": 100,
+      "DEF": 100,
+      "SPD": 4000,
+      "durability": 100,
+      "price": 1000,
+      "image": "https://i.imgur.com/IRdDIwi.png"
+    },
+    {
+      "type": "weapon",
+      "id": 7,
+      "name": "Fatalis Dual Skies",
+      "HP": 10000,
+      "ATK": 5000,
+      "DEF": 1000,
+      "SPD": 20000,
+      "durability": 5000,
+      "price": 1559000,
+      "image": "https://i.imgur.com/RjHvUeZ.png"
+    }
+]
